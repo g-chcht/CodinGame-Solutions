@@ -5,3 +5,6 @@ solution for codingame
 	Easy:
 	- ISBN Check digit
 	- Benford's Law
+	
+	Medium:
+	- Conway sequence
