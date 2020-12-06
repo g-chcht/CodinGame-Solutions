@@ -8,3 +8,6 @@ solution for codingame
 	
 	Medium:
 	- Conway sequence
+
+	Hard:
+	- Roller Coaster
