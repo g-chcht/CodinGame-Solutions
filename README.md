@@ -8,6 +8,7 @@ solution for codingame
 	
 	Medium:
 	- Conway sequence
+	- Micro Assembly
 
 	Hard:
 	- Roller Coaster
