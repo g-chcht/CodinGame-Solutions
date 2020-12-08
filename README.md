@@ -9,6 +9,7 @@ solution for codingame
 	Medium:
 	- Conway sequence
 	- Micro Assembly
+	- Dice Probability Calculator
 
 	Hard:
 	- Roller Coaster
