@@ -10,6 +10,7 @@ solution for codingame
 	- Conway sequence
 	- Micro Assembly
 	- Dice Probability Calculator
+	- Don't Panic Ep1
 
 	Hard:
 	- Roller Coaster
