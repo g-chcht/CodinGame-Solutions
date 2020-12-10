@@ -14,3 +14,4 @@ solution for codingame
 
 	Hard:
 	- Roller Coaster
+	- Super Computer
