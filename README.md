@@ -11,9 +11,11 @@ solution for codingame
 	- Micro Assembly
 	- Dice Probability Calculator
 	- Don't Panic Ep1
+	- Futoshiki solver
 
 	Hard:
 	- Roller Coaster
 	- Super Computer
+
 	Very Hard:
 	- Breach
