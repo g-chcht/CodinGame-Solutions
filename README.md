@@ -19,3 +19,4 @@ solution for codingame
 
 	Very Hard:
 	- Breach
+	- Shadows of the Knight - Episode 2
