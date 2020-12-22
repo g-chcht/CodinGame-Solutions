@@ -1,5 +1,5 @@
 # Codingame
-solution for codingame
+Solutions for CodinGame https://www.codingame.com/
 
 # golang
 	Easy:
