@@ -5,6 +5,7 @@ Solutions for CodinGame https://www.codingame.com/
 	Easy:
 	- ISBN Check digit
 	- Benford's Law
+	- Mars Lander - Episode 1
 	
 	Medium:
 	- Conway sequence
