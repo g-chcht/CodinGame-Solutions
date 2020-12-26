@@ -12,6 +12,7 @@ Solutions for CodinGame https://www.codingame.com/
 	- Dice Probability Calculator
 	- Don't Panic Ep1
 	- Futoshiki solver
+	- The Gift
 
 	Hard:
 	- Roller Coaster
