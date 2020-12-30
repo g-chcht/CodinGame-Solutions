@@ -9,37 +9,37 @@ import "sort"
  **/
 
 func main() {
-    var N int
-    fmt.Scan(&N)
-    
-    var C int
-    fmt.Scan(&C)
+	var N int
+	fmt.Scan(&N)
 
-    sum := 0
+	var C int
+	fmt.Scan(&C)
 
-    budgets := make([]int, N)
-    
-    for i := 0; i < N; i++ {
-        var B int
-        fmt.Scan(&B)
-        sum += B
-        budgets[i] = B
-    }
+	sum := 0
 
-    sort.Ints(budgets)
+	budgets := make([]int, N)
 
-    if sum < C {
-        fmt.Println("IMPOSSIBLE")
-    } else {
-        for i, v := range budgets {
-            average := C / (len(budgets) - i)
-            if average > v {
-                C -= v
-                fmt.Println(v)
-            } else {
-                C -= average
-                fmt.Println(average)
-            }
-        }
-    }
+	for i := 0; i < N; i++ {
+		var B int
+		fmt.Scan(&B)
+		sum += B
+		budgets[i] = B
+	}
+
+	sort.Ints(budgets)
+
+	if sum < C {
+		fmt.Println("IMPOSSIBLE")
+	} else {
+		for i, v := range budgets {
+			average := C / (len(budgets) - i)
+			if average > v {
+				C -= v
+				fmt.Println(v)
+			} else {
+				C -= average
+				fmt.Println(average)
+			}
+		}
+	}
 }

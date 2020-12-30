@@ -6,6 +6,7 @@ Solutions for CodinGame https://www.codingame.com/
 	- ISBN Check digit
 	- Benford's Law
 	- Mars Lander - Episode 1
+	- Next Growing Number
 	
 	Medium:
 	- Conway sequence
