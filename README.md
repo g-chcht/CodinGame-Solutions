@@ -1,25 +1,38 @@
 # Codingame
+
 Solutions for CodinGame https://www.codingame.com/
 
+# ruby:
+
+    Easy:
+    - The Descent
+    - Power of Thor - Episode 1
+
 # golang
-	Easy:
-	- ISBN Check digit
-	- Benford's Law
-	- Mars Lander - Episode 1
-	- Next Growing Number
-	
-	Medium:
-	- Conway sequence
-	- Micro Assembly
-	- Dice Probability Calculator
-	- Don't Panic Ep1
-	- Futoshiki solver
-	- The Gift
 
-	Hard:
-	- Roller Coaster
-	- Super Computer
+    Easy:
+    - ISBN Check digit
+    - Benford's Law
+    - Mars Lander - Episode 1
+    - Next Growing Number
 
-	Very Hard:
-	- Breach
-	- Shadows of the Knight - Episode 2
+    Medium:
+    - Conway sequence
+    - Micro Assembly
+    - Dice Probability Calculator
+    - Don't Panic Ep1
+    - Futoshiki solver
+    - The Gift
+
+    Hard:
+    - Roller Coaster
+    - Super Computer
+
+    Very Hard:
+    - Breach
+    - Shadows of the Knight - Episode 2
+
+# python
+
+    Easy:
+    - 10 pin Bowling Scores
