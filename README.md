@@ -36,3 +36,5 @@ Solutions for CodinGame https://www.codingame.com/
 
     Easy:
     - 10 pin Bowling Scores
+	- Equivalent Resistance, Circuit Building
+
