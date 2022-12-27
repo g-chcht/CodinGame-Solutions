@@ -15,6 +15,7 @@ Solutions for CodinGame https://www.codingame.com/
     - Benford's Law
     - Mars Lander - Episode 1
     - Next Growing Number
+    - Merlin's Magic Square
 
     Medium:
     - Conway sequence
