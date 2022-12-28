@@ -16,6 +16,7 @@ Solutions for CodinGame https://www.codingame.com/
     - Mars Lander - Episode 1
     - Next Growing Number
     - Merlin's Magic Square
+    - Retro Typewriter Art
 
     Medium:
     - Conway sequence
