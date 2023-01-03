@@ -17,6 +17,7 @@ Solutions for CodinGame https://www.codingame.com/
     - Next Growing Number
     - Merlin's Magic Square
     - Retro Typewriter Art
+    - Asteroids
 
     Medium:
     - Conway sequence
@@ -25,6 +26,8 @@ Solutions for CodinGame https://www.codingame.com/
     - Don't Panic Ep1
     - Futoshiki solver
     - The Gift
+    - Mayan Calculation
+    - Scrabble
 
     Hard:
     - Roller Coaster
