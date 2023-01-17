@@ -13,3 +13,5 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+go/optimization/mars_lander.go
+go/optimization/codevszombies.go

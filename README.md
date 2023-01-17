@@ -7,6 +7,7 @@ Solutions for CodinGame https://www.codingame.com/
     Easy:
     - The Descent
     - Power of Thor - Episode 1
+    - 1D Spreadsheet
 
 # golang
 
@@ -28,6 +29,8 @@ Solutions for CodinGame https://www.codingame.com/
     - The Gift
     - Mayan Calculation
     - Scrabble
+    - Mars Lander - Episode 2 (With Genetic Algo)
+    - Telephone Numbers
 
     Hard:
     - Roller Coaster
@@ -36,6 +39,8 @@ Solutions for CodinGame https://www.codingame.com/
     Very Hard:
     - Breach
     - Shadows of the Knight - Episode 2
+    - Mars Lander - Episode 3 (With Genetic Algo)
+
 
 # python
 
