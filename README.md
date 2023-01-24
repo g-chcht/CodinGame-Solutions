@@ -31,6 +31,9 @@ Solutions for CodinGame https://www.codingame.com/
     - Scrabble
     - Mars Lander - Episode 2 (With Genetic Algo)
     - Telephone Numbers
+    - The Fall - Episode 1
+    - death first search ep 
+    - Dwarfs standing on the shoulders of giants
 
     Hard:
     - Roller Coaster
