@@ -34,6 +34,8 @@ Solutions for CodinGame https://www.codingame.com/
     - The Fall - Episode 1
     - death first search ep 
     - Dwarfs standing on the shoulders of giants
+    - Blunder ep 1
+    - Network Cabling
 
     Hard:
     - Roller Coaster
