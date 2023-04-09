@@ -40,6 +40,7 @@ Solutions for CodinGame https://www.codingame.com/
     Hard:
     - Roller Coaster
     - Super Computer
+    - Vox Codei - Episode 1
 
     Very Hard:
     - Breach
